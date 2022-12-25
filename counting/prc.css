@@ -1,0 +1,38 @@
+body {
+    background-color: orange;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+#strt {
+    font-size: 45px;
+    color: purple;
+}
+
+#btn {
+    text-align: center;
+}
+
+#btn-inn {
+    color: brown;
+    font-size: 40px;
+    background: lightgreen;
+    border-style: none;
+    border-radius: 10px;
+}
+
+#btn-inn:hover {
+    background: linear-gradient(120deg, rgb(2, 205, 2), yellow);
+}
+
+#header {
+    text-align: center;
+    font-size: 35px;
+    color: crimson;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-top: 100px;
+}
